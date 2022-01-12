@@ -1,0 +1,16 @@
+.barre-menu{
+    background-color: #333333;
+    display: flex;
+    justify-content:space-around ;
+}
+.col1{
+    display: flex;
+    width: 85%;
+}
+ nav{
+     font-size: 20px;
+     color: white;
+    padding: 15px;
+    box-sizing: border-box;
+    margin-right: 10px;
+}
